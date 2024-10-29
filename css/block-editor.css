@@ -1,0 +1,25 @@
+.wp-block-karenapp-integration-schedule {
+    background-color: #f8f9f9;
+    display: flex;
+    flex-direction: row;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+    font-size: 13px;
+    padding: 14px
+}
+
+.wp-block-karenapp-integration-schedule label {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    font-weight: 600;
+    margin-right: 8px;
+    white-space: nowrap
+}
+
+.wp-block-karenapp-integration-schedule .editor-plain-text {
+    flex-grow: 1
+}
+
+.wp-block-karenapp-integration-schedule .dashicon {
+    margin-right: 8px
+}

@@ -1,0 +1,15 @@
+.karenapp-schedule-icon {
+	background: url('../images/calendar-clock.svg') center;
+    background-size: 100%;
+	opacity: 0.5;
+	vertical-align: text-top;
+	display: inline-block;
+	height: 18px;
+	width: 18px;
+}
+
+i.mce-i-karenapp {
+	background: url('../images/calendar-clock.svg') center;
+    background-size: 100%;
+	opacity: 0.7;
+}
